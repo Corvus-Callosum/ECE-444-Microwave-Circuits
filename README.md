@@ -1,4 +1,4 @@
-# ECE-444-Microwave-Circuits
+# ECE 444 Microwave Circuits
 
 <!-- Description of course labs and goals -->
 
