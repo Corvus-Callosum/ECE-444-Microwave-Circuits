@@ -1,7 +1,7 @@
 # ECE 444 Microwave Circuits
 
 <!-- Description of course labs and goals -->
-This Course focuses on the comprehensive design, fabrication, and measurement of various microwave-integrated circuits, emphasizing the practical application of transmission-line theory and the use of CAD tools and network analyzers. The projects below encompass multiple microwave components, each with specific performance targets to ensure high efficiency, proper isolation, and minimal loss.
+This course focuses on the comprehensive design, fabrication, and measurement of various microwave-integrated circuits, emphasizing the practical application of transmission-line theory and the use of CAD tools and network analyzers. The projects below encompass multiple microwave components, each with specific performance targets to ensure high efficiency, proper isolation, and minimal loss.
 
 # Design Goals
 
